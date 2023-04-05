@@ -1,0 +1,7 @@
+.wapper{
+  display: flex;
+  justify-content: flex-start;
+}
+.WheelLucky{
+  width: 50%;
+}
